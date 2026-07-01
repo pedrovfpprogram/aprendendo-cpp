@@ -136,5 +136,8 @@ int main(){
         }
     }
     return 0;
-
+    void semCarta(carta cartaTopo){
+        descarte.pop();
+        
+    }
 }
